@@ -1,0 +1,73 @@
+{
+    "from": 1,
+    "to": 10,
+    "currentPage": 1,
+    "total": 82,
+    "totalPages": 9,
+    "queryTime": "0.016",
+    "totalTime": "0.030",
+    "partial": false,
+    "canonicalUrl": "/v1/products((search=\"macbook\")&onSale=true&(categoryPath.id=abcat0502000))?show=name,salePrice,mobileUrl,onSale&sort=salePrice.desc&format=json&apiKey=HSf3h88NwSNciftP8AGZB5rp",
+    "products": [
+        {
+            "name": "Apple - MacBook Pro 16\" Display with Touch Bar - Intel Core i9 - 64GB Memory - 8TB SSD - Space Gray",
+            "salePrice": 4799.99,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6394273/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 16\" Laptop - Apple M1 Max chip - 32GB Memory - 1TB SSD - Space Gray",
+            "salePrice": 2999.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450860/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 16\" Laptop - Apple M1 Max chip - 32GB Memory - 1TB SSD - Silver",
+            "salePrice": 2999.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450865/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 16\" Laptop - Apple M1 Pro chip - 16GB Memory - 1TB SSD - Space Gray",
+            "salePrice": 2299.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450859/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 14\" Laptop - Apple M1 Pro chip - 16GB Memory - 1TB SSD - Space Gray",
+            "salePrice": 2199.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450854/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 14\" Laptop - Apple M1 Pro chip - 16GB Memory - 1TB SSD - Silver",
+            "salePrice": 2199.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450857/pdp",
+            "onSale": true
+        },
+        {
+            "name": "Apple - Geek Squad Certified Refurbished MacBook Pro - 16\" Display- Intel Core i9- 16GB Memory- AMD Radeon Pro 5500M - 1TB SSD - Silver",
+            "salePrice": 2129.99,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6489620/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 16\" Laptop - Apple M1 Pro chip - 16GB Memory - 512GB SSD - Space Gray",
+            "salePrice": 2099.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450858/pdp",
+            "onSale": true
+        },
+        {
+            "name": "MacBook Pro 16\" Laptop - Apple M1 Pro chip - 16GB Memory - 512GB SSD - Silver",
+            "salePrice": 2099.0,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6450861/pdp",
+            "onSale": true
+        },
+        {
+            "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i7 - 16GB Memory - 256GB SSD - Space Gray",
+            "salePrice": 1839.99,
+            "mobileUrl": "https://api.bestbuy.com/click/-/6363223/pdp",
+            "onSale": true
+        }
+    ]
+}
